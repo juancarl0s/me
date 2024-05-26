@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>juancarl0s</title>
-    <link>https://juancarl0s.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on juancarl0s</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 May 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://juancarl0s.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://juancarl0s.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 25 May 2024 07:07:07 +0100</pubDate>
-      <guid>https://juancarl0s.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Intro Link to heading Hi, I&amp;rsquo;m Juan, a software engineer who loves working on backend systems. I mostly work using Go, Postgresql and Kafka but I enjoy exploring new technologies, especially those that simplify solutions for whatever problem I’m trying to tackle at the moment. Originally from Caracas, Venezuela, I&amp;rsquo;m now a US citizen who&amp;rsquo;s always up for learning new things.&#xA;Projects Link to heading NIStudies fMRI neuroimaging studies explorer.</description>
     </item>
   </channel>
