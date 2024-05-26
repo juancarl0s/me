@@ -3,7 +3,7 @@ title = 'About'
 date = 2024-05-25T07:07:07+01:00
 +++
 
-## About
+## Intro
 
 Hi, I'm Juan, a software engineer who loves working
 on backend systems. I mostly work using Go, Postgresql and
