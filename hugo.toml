@@ -55,10 +55,6 @@ style = "github-dark"
   url = "https://www.linkedin.com/in/juancarl0s/"
 
 # Menu links
-#[[menu.main]]
-#  name = "Blog"
-#  weight = 1
-#  url  = "posts/"
 [[menu.main]]
   name = "About"
   weight = 2
