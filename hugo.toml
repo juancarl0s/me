@@ -15,7 +15,7 @@ style = "github-dark"
 
 [params]
   author = "Juan Carlos"
-  info = "Backend Sofware Engineer"
+  info = "Backend Software Engineer"
   description = "Juan Carlos's personal website"
   keywords = "blog,backend,developer,personal"
   avatarurl = "images/avatar.jpg"
