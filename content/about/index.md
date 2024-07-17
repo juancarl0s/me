@@ -14,7 +14,7 @@ I'm now a US citizen who's always up for learning new things.
 
 ## Projects
 
-- [NIStudies](https://nistudies.com) fMRI neuroimaging studies explorer. Built with using [FastAPI](https://fastapi.tiangolo.com/) and [NextJS](https://nextjs.org/).
+- [NIStudies](https://nistudies.com) fMRI neuroimaging studies explorer. Built with [FastAPI](https://fastapi.tiangolo.com/) and [NextJS](https://nextjs.org/).
   ![nistudies.com](images/ni.gif)
 
 - [ETHEsp](https://ethesp.com) small blog and dashboard discussing Ethereum concepts in Spanish. Built with [NextJS](https://nextjs.org/).
