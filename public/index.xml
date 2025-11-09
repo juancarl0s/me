@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 25 May 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Intro Link to heading Hi, I&amp;rsquo;m Juan, a software engineer who loves working on backend systems. I mostly work using Go, Postgresql and Kafka but I enjoy exploring new technologies, especially those that simplify solutions for whatever problem I’m trying to tackle at the moment. Originally from Caracas, Venezuela, I&amp;rsquo;m now a US citizen who&amp;rsquo;s always up for learning new things.&#xA;Projects Link to heading NIStudies fMRI neuroimaging studies explorer.</description>
+      <description>Intro Link to heading Hey! I&amp;rsquo;m Juan, a software engineer passionate about building backend systems. I work primarily with Go, PostgreSQL, and Kafka, but I&amp;rsquo;m always excited to dive into new technologies—especially when they make solving problems easier and more elegant. Love the challenge of finding the right tool for the job!&#xA;Projects Link to heading NIStudies Link to heading fMRI neuroimaging studies explorer - A comprehensive platform for exploring and analyzing functional magnetic resonance imaging studies.</description>
     </item>
   </channel>
 </rss>
