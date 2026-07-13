@@ -7,7 +7,7 @@ date = 2024-05-25T07:07:07+01:00
 
 <div class="intro-section fade-in-up">
 
-Hey! I'm Juan, a software engineer passionate about building backend systems. I work primarily with Go, PostgreSQL, and Kafka, but I'm always excited to dive into new technologies—especially when they make solving problems easier and more elegant. Love the challenge of finding the right tool for the job!
+Hi, I'm Juan, a software engineer focused on building backend systems and distributed applications. I primarily work with Go, PostgreSQL, and Kafka, and I enjoy designing reliable, scalable software that solves real-world problems. I'm always interested in learning new technologies and choosing the right tools to build simple, effective solutions.
 
 </div>
 
@@ -19,7 +19,7 @@ Hey! I'm Juan, a software engineer passionate about building backend systems. I 
 
 ### [NIStudies](https://nistudies.com)
 
-fMRI neuroimaging studies explorer - A comprehensive platform for exploring and analyzing functional magnetic resonance imaging studies.
+A web platform for exploring and analyzing functional MRI (fMRI) research studies. NIStudies helps researchers and students discover, browse, and better understand publicly available neuroimaging datasets.
 
 <div class="tech-badges">
   <span class="tech-badge">FastAPI</span>
@@ -36,7 +36,7 @@ fMRI neuroimaging studies explorer - A comprehensive platform for exploring and 
 
 ### [SFDCClient](https://github.com/nicheinc/sfdcclient)
 
-Golang package consisting of a wrapper of an HTTP client for making requests to Salesforce's REST API through a connected app, making use of the Salesforce OAuth 2.0 JWT Bearer Flow for Server-to-Server authorization.
+An open source Go package that simplifies communication with the Salesforce REST API. It provides an HTTP client wrapper with built-in support for the Salesforce OAuth 2.0 JWT Bearer Flow, enabling secure server-to-server authentication through Connected Apps.
 
 <div class="tech-badges">
   <span class="tech-badge">Go</span>
@@ -44,19 +44,6 @@ Golang package consisting of a wrapper of an HTTP client for making requests to 
   <span class="tech-badge">OAuth 2.0</span>
   <span class="tech-badge">REST</span>
 </div>
-
-### [ETHEsp](https://ethesp.com)
-
-Ethereum price dashboard.
-
-<div class="tech-badges">
-  <span class="tech-badge">NextJS</span>
-  <span class="tech-badge">React</span>
-  <span class="tech-badge">Web3</span>
-  <span class="tech-badge">Ethereum</span>
-</div>
-
-![ethesp.com](images/ethesp.png)
 
 </div>
 

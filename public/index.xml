@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>juancarl0s</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on juancarl0s</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 25 May 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 25 May 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Intro Link to heading Hey! I&amp;rsquo;m Juan, a software engineer passionate about building backend systems. I work primarily with Go, PostgreSQL, and Kafka, but I&amp;rsquo;m always excited to dive into new technologies—especially when they make solving problems easier and more elegant. Love the challenge of finding the right tool for the job!&#xA;Projects Link to heading NIStudies Link to heading fMRI neuroimaging studies explorer - A comprehensive platform for exploring and analyzing functional magnetic resonance imaging studies.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>juancarl0s</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on juancarl0s</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 25 May 2024 07:07:07 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Sat, 25 May 2024 07:07:07 +0100</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;h2 id=&#34;intro&#34;&gt;&#xA;  Intro&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#intro&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Juan, a software engineer focused on building backend systems and distributed applications. I primarily work with Go, PostgreSQL, and Kafka, and I enjoy designing reliable, scalable software that solves real-world problems. I&amp;rsquo;m always interested in learning new technologies and choosing the right tools to build simple, effective solutions.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;projects&#34;&gt;&#xA;  Projects&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#projects&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;nistudies&#34;&gt;&#xA;  &lt;a href=&#34;https://nistudies.com&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIStudies&lt;/a&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#nistudies&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;A web platform for exploring and analyzing functional MRI (fMRI) research studies. NIStudies helps researchers and students discover, browse, and better understand publicly available neuroimaging datasets.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
